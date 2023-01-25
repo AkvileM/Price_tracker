@@ -11,8 +11,12 @@ from random import randrange
 from tqdm import tqdm #progress bar
 from typing import List, Dict, Optional
 
-
+results_url = []
+results_base = []
+results_p = []
+results_oth = []
 def extract_base_info(url_list:str) -> Optional[List[Dict]]:
+
     chrome_options = webdriver.ChromeOptions()
     prefs = {"profile.managed_default_content_settings.images": 2}
     chrome_options.add_experimental_option("prefs", prefs)
@@ -25,16 +29,14 @@ def extract_base_info(url_list:str) -> Optional[List[Dict]]:
     base_soup = BeautifulSoup(base_source, 'html.parser')
     cars_should_be = int((base_soup.find("span", {"class":"result-count"}).text.strip())[1:-1])
     count_cars = []
-    results_url = []
-    results_base = []
-    results_p = []
-    results_oth = []
     url_list_class = base_soup.find_all("div", class_="auto-lists lt")
     for j in url_list_class:
+        #url = [i['href'] for i in j.find_all('a', href=True)]
         link = j.find_all('a', href=True)
         for i in link:
             url=[i['href']]
             results_url.append(url)
+        #results.append(link)
         description = j.find_all("div", class_="announcement-title")
         for i in description:
             Description = i.text.strip()
@@ -62,4 +64,6 @@ def extract_base_info(url_list:str) -> Optional[List[Dict]]:
             Body_type = i.find("span", title= re.compile("Kėbulo tipas")).text.strip()
             results_oth.append({'Year': Year, 'Fuel_type':Fuel_type, 'Gear_box':Gear_box,  'City':City, 'Body_type':Body_type})   
     return results_url, results_base, results_p, results_oth
+        
+
 
