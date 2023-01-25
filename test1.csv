@@ -1,41 +1,21 @@
 ,Url,Brand,Model,Price
-0,https://en.autoplius.lt/ads/audi-a8-4-2-l-saloon-sedan-2011-petrol-22800242.html,Audi,A8,12 700 
-1,https://en.autoplius.lt/ads/tesla-model-3-68-kwh-hatchback-2019-electricity-22873738.html,Tesla,Model 3,26 500 
-2,https://en.autoplius.lt/ads/volkswagen-passat-2-0-l-wagon-2011-diesel-22873464.html,Volkswagen,Passat,6 820 
-3,https://en.autoplius.lt/ads/toyota-highlander-3-5-l-suv-off-road-2015-petrol-gas-22872272.html,Toyota,Highlander,25 600 
-4,https://en.autoplius.lt/ads/kia-sportage-1-7-l-suv-off-road-2016-diesel-22780616.html,Kia,Sportage,8 999 
-5,https://en.autoplius.lt/ads/mercedes-benz-s550-4-7-l-saloon-sedan-2014-petrol-22838792.html,Mercedes-Benz,S550,29 900 
-6,https://en.autoplius.lt/ads/renault-kangoo-1-5-l-mpv-minivan-2013-diesel-22868858.html,Renault,Kangoo,4 900 
-7,https://en.autoplius.lt/ads/bmw-116-hatchback-2012-diesel-18746972.html,BMW,116,6 700 
-8,https://en.autoplius.lt/ads/bmw-318-gran-turismo-2-0-l-hatchback-2016-diesel-22471726.html,BMW,318 Gran turismo,16 750 
-9,https://en.autoplius.lt/ads/toyota-hilux-3-0-l-pick-up-2015-diesel-22229240.html,Toyota,Hilux,20 250 
-10,https://en.autoplius.lt/ads/bmw-535-3-0-l-saloon-sedan-2016-petrol-22818072.html,BMW,535,23 750 
-11,https://en.autoplius.lt/ads/skoda-kodiaq-2-0-l-suv-off-road-2019-diesel-22871400.html,Skoda,Kodiaq,25 600 
-12,https://en.autoplius.lt/ads/bmw-320-2-0-l-wagon-2006-diesel-22869870.html,BMW,320,3 450 
-13,https://en.autoplius.lt/ads/nissan-qashqai-1-5-l-suv-off-road-2009-diesel-22871650.html,Nissan,Qashqai,4 850 
-14,https://en.autoplius.lt/ads/bmw-120-2-0-l-hatchback-2008-petrol-22473754.html,BMW,120,5 450 
-15,https://en.autoplius.lt/ads/bmw-525-3-0-l-wagon-2009-diesel-22873452.html,BMW,525,5 550 
-16,https://en.autoplius.lt/ads/bmw-116-2-0-l-hatchback-2012-diesel-22873682.html,BMW,116,5 850 
-17,https://en.autoplius.lt/ads/mini-cooper-1-6-l-hatchback-2010-petrol-22820740.html,Mini,Cooper,6 600 
-18,https://en.autoplius.lt/ads/lexus-gs-300-3-0-l-saloon-sedan-2007-petrol-22820066.html,Lexus,GS 300,6 700 
-19,https://en.autoplius.lt/ads/mercedes-benz-vito-2-2-l-cargo-van-2011-diesel-electricity-22862200.html,Mercedes-Benz,Vito,7 777 
-20,https://en.autoplius.lt/ads/audi-a8-4-2-l-saloon-sedan-2011-petrol-22800242.html,Audi,A8,12 700 
-21,https://en.autoplius.lt/ads/tesla-model-3-68-kwh-hatchback-2019-electricity-22873738.html,Tesla,Model 3,26 500 
-22,https://en.autoplius.lt/ads/volkswagen-passat-2-0-l-wagon-2011-diesel-22873464.html,Volkswagen,Passat,6 820 
-23,https://en.autoplius.lt/ads/toyota-highlander-3-5-l-suv-off-road-2015-petrol-gas-22872272.html,Toyota,Highlander,25 600 
-24,https://en.autoplius.lt/ads/kia-sportage-1-7-l-suv-off-road-2016-diesel-22780616.html,Kia,Sportage,8 999 
-25,https://en.autoplius.lt/ads/mercedes-benz-s550-4-7-l-saloon-sedan-2014-petrol-22838792.html,Mercedes-Benz,S550,29 900 
-26,https://en.autoplius.lt/ads/renault-kangoo-1-5-l-mpv-minivan-2013-diesel-22868858.html,Renault,Kangoo,4 900 
-27,https://en.autoplius.lt/ads/bmw-116-hatchback-2012-diesel-18746972.html,BMW,116,6 700 
-28,https://en.autoplius.lt/ads/bmw-318-gran-turismo-2-0-l-hatchback-2016-diesel-22471726.html,BMW,318 Gran turismo,16 750 
-29,https://en.autoplius.lt/ads/toyota-hilux-3-0-l-pick-up-2015-diesel-22229240.html,Toyota,Hilux,20 250 
-30,https://en.autoplius.lt/ads/bmw-535-3-0-l-saloon-sedan-2016-petrol-22818072.html,BMW,535,23 750 
-31,https://en.autoplius.lt/ads/skoda-kodiaq-2-0-l-suv-off-road-2019-diesel-22871400.html,Skoda,Kodiaq,25 600 
-32,https://en.autoplius.lt/ads/bmw-320-2-0-l-wagon-2006-diesel-22869870.html,BMW,320,3 450 
-33,https://en.autoplius.lt/ads/nissan-qashqai-1-5-l-suv-off-road-2009-diesel-22871650.html,Nissan,Qashqai,4 850 
-34,https://en.autoplius.lt/ads/bmw-120-2-0-l-hatchback-2008-petrol-22473754.html,BMW,120,5 450 
-35,https://en.autoplius.lt/ads/bmw-525-3-0-l-wagon-2009-diesel-22873452.html,BMW,525,5 550 
-36,https://en.autoplius.lt/ads/bmw-116-2-0-l-hatchback-2012-diesel-22873682.html,BMW,116,5 850 
-37,https://en.autoplius.lt/ads/mini-cooper-1-6-l-hatchback-2010-petrol-22820740.html,Mini,Cooper,6 600 
-38,https://en.autoplius.lt/ads/lexus-gs-300-3-0-l-saloon-sedan-2007-petrol-22820066.html,Lexus,GS 300,6 700 
-39,https://en.autoplius.lt/ads/mercedes-benz-vito-2-2-l-cargo-van-2011-diesel-electricity-22862200.html,Mercedes-Benz,Vito,7 777 
+0,https://en.autoplius.lt/ads/mercedes-benz-eqs-108-kwh-saloon-sedan-2022-electricity-22808860.html,Mercedes-Benz,EQS,149 900 
+1,https://en.autoplius.lt/ads/porsche-911-3-0-l-coupe-2022-petrol-22846438.html,Porsche,911,163 000 
+2,https://en.autoplius.lt/ads/mercedes-benz-eqs-108-kwh-saloon-sedan-2023-electricity-22802000.html,Mercedes-Benz,EQS,178 000 
+3,https://en.autoplius.lt/ads/toyota-land-cruiser-3-3-l-suv-off-road-2022-diesel-22754256.html,Toyota,Land Cruiser,179 000 
+4,https://en.autoplius.lt/ads/rolls-royce-kita-6-6-l-coupe-2015-petrol-17300979.html,Rolls-Royce,-kita-,198 900 
+5,https://en.autoplius.lt/ads/land-rover-range-rover-4-4-l-suv-off-road-2022-petrol-22650684.html,Land,Rover Range Rover,270 000 
+6,https://en.autoplius.lt/ads/maybach-kita-6-0-l-limousine-2022-petrol-21547701.html,Maybach,-kita-,361 800 
+7,https://en.autoplius.lt/ads/ford-fiesta-1-1-l-hatchback-1991-petrol-21812060.html,Ford,Fiesta,265 
+8,https://en.autoplius.lt/ads/opel-astra-1-7-l-hatchback-1999-diesel-22514224.html,Opel,Astra,280 
+9,https://en.autoplius.lt/ads/opel-astra-1-7-l-saloon-sedan-2001-diesel-22818930.html,Opel,Astra,290 
+10,https://en.autoplius.lt/ads/opel-meriva-hatchback-2004-diesel-22053648.html,Opel,Meriva,300 
+11,https://en.autoplius.lt/ads/volkswagen-golf-1-9-l-hatchback-1992-diesel-22790128.html,Volkswagen,Golf,300 
+12,https://en.autoplius.lt/ads/subaru-leone-wagon-1986-petrol-19978551.html,Subaru,Leone,300 
+13,https://en.autoplius.lt/ads/renault-scenic-1-9-l-mpv-minivan-1998-diesel-21888692.html,Renault,Scenic,350 
+14,https://en.autoplius.lt/ads/mercedes-benz-a160-1-6-l-saloon-sedan-2000-petrol-gas-22802122.html,Mercedes-Benz,A160,350 
+15,https://en.autoplius.lt/ads/opel-zafira-2-0-l-mpv-minivan-2002-diesel-22826432.html,Opel,Zafira,350 
+16,https://en.autoplius.lt/ads/mazda-3-1-6-l-hatchback-2006-diesel-22783612.html,Mazda,3,350 
+17,https://en.autoplius.lt/ads/volkswagen-passat-1-6-l-saloon-sedan-1991-diesel-22858716.html,Volkswagen,Passat,350 
+18,https://en.autoplius.lt/ads/honda-concerto-1-5-l-hatchback-1992-petrol-22779206.html,Honda,Concerto,350 
+19,https://en.autoplius.lt/ads/ford-focus-1-8-l-wagon-2002-diesel-22448758.html,Ford,Focus,350 
