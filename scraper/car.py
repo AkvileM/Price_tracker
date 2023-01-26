@@ -11,7 +11,7 @@ results_url = []
 results_base = []
 results_p = []
 all_results = []
-for page in range(1,5):
+for page in range(1,40):
     url_list = f"https://en.autoplius.lt/ads/used-cars?page_nr={page}"
     all_results = extract_base_info(url_list)
     results_url.extend(all_results[0])
@@ -31,3 +31,8 @@ links = results['Url']
 cars_details = []
 for link in links:
     cars_details.append(extract_car_details(link))
+
+add_pd = pd.DataFrame.from_dict(cars_details)
+
+all_results = results.join(add_pd)
+all_results.to_csv('cars.csv')

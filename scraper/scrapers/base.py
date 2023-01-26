@@ -11,11 +11,12 @@ from random import randrange
 from tqdm import tqdm #progress bar
 from typing import List, Dict, Optional
 
-results_url = []
-results_base = []
-results_p = []
-results_oth = []
+
 def extract_base_info(url_list:str) -> Optional[List[Dict]]:
+
+    results_url = []
+    results_base = []
+    results_p = []
 
     chrome_options = webdriver.ChromeOptions()
     prefs = {"profile.managed_default_content_settings.images": 2}

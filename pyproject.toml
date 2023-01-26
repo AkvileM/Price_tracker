@@ -2,7 +2,7 @@
 name = "scraper"
 version = "0.0.1"
 description = "Scraper to scrape webpages"
-authors = ["dqmis <dom.seputis@gmail.com>"]
+authors = ["AkvileM <akvilma@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "3.9.*"
